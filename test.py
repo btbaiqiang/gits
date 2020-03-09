@@ -1,1 +1,1 @@
-Use quit() or Ctrl-D (i.e. EOF) to exit
+print("Hello World")
